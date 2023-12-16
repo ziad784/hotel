@@ -1,6 +1,6 @@
 {
-    "name": "airbnb_ui_clone",
-    "short_name": "airbnb_ui_clone",
+    "name": "hotel",
+    "short_name": "hotel",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
