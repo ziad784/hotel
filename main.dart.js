@@ -39882,7 +39882,7 @@ A.FX.prototype={
 L(a){return new A.vs(B.C_,"Hotel",A.y5(null,"AirbnbCereal",null),!1,null)}}
 A.E3.prototype={}
 A.Ez.prototype={
-L(a){var s=null,r=A.f6("\u0627\u0633\u062a\u0627\u0630 \u0645\u062f\u062d\u062a",s,s,s,s,s,s),q=t.F
+L(a){var s=null,r=A.f6(" \u0643\u0631\u064a",s,s,s,s,s,s),q=t.F
 return new A.wV(new A.tc(r,new A.Np(s,s,1/0,56),s),B.IO,A.i9(new A.tm(new A.di(B.BL,A.HA(A.b([B.AF,B.h1,B.AG,B.h1,A.oJ(A.b([A.Y3("assets/images/airbnb.png",20,20),B.cT,B.Pc],q),B.aF,B.aP,B.aQ),B.h1,A.oJ(A.b([A.Y3("assets/images/chat.png",20,20),B.cT,B.P8],q),B.aF,B.aP,B.aQ),B.h1,A.oJ(A.b([A.Y3("assets/images/user-2.png",20,20),B.cT,B.P7],q),B.aF,B.aP,B.aQ)],q),B.aF,B.re,B.aQ),s),s),91,s),s)}}
 A.E4.prototype={
 L(a){$.ai2()
